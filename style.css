@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+  }
+
+  #coins {
+    width: 100vw;
+    height: 100vh;
+    background-color: slateblue;
+    position: relative;
+  }
+
+  #score {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
